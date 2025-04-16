@@ -1,0 +1,31 @@
+/
+/assets/icon.ico
+/
+/assets/icon.ico
+/
+/assets/icon.ico
+GET : /
+GET : /assets/icon.ico
+GET : /
+GET : /
+GET : /
+GET : /assets/icon.ico
+GET : /
+GET : /assets/icon.ico
+GET : /
+GET : /assets/icon.ico
+GET : /
+GET : /assets/icon.ico
+GET : /
+GET : /assets/icon.ico
+GET : /
+GET : /
+GET : /assets/icon.ico
+GET : /
+GET : /assets/icon.ico
+GET : /
+GET : /assets/icon.ico
+GET : /
+GET : /assets/icon.ico
+GET : /
+GET : /assets/icon.ico
